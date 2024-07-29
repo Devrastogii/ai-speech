@@ -16,7 +16,8 @@ The **Smart PDF Tool** provides a seamless and intelligent way to interact with 
 
 We have designed a clean and intuitive user interface to ensure a seamless user experience. Below is a screenshot of the interface:
 
-![User Interface Screenshot]("C:\Users\hp\Downloads\UI\ai-speech.png")
+<img width="959" alt="ai-speech" src="https://github.com/user-attachments/assets/b218cfb8-fb5d-4db2-b64e-1fe94062d716">
+
 
 ## How to Use
 
@@ -29,8 +30,7 @@ We have designed a clean and intuitive user interface to ensure a seamless user 
 
 Here are some screenshots of the Smart PDF Tool in action:
 
-![Screenshot 1]("C:\Users\hp\Downloads\UI\ai-speech.png")
-![Screenshot 2](path/to/screenshot2.png)
+<img width="946" alt="detect-ui" src="https://github.com/user-attachments/assets/ab6d9104-755d-43c4-b8c1-7ab3da1885c9">
 
 ## Video Demo
 
