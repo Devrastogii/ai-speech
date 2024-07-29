@@ -38,11 +38,11 @@ For a detailed demonstration of the Smart PDF Tool, watch our video:
 
 [Video Demo]([link/to/video.mp4](https://drive.google.com/file/d/1B0SHPLil_hpwv5ia0ZAB5coBxhHLEgOl/view?usp=sharing))
 
-## Installation
-
-To run the Smart PDF Tool locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/smart-pdf-tool.git
+## Install the required dependencies:
+1. pip install fastapi uvicorn pydantic nrclex spacy PyPDF2
+2. python -m spacy download en_core_web_sm
+3. uvicorn main:app --reload
+## Technologies Used
+1. Backend: Python, FastAPI
+2. Frontend: HTML, CSS, JavaScript
+3. Libraries: PyPDF2, spaCy, responsivevoice api
