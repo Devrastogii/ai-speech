@@ -36,7 +36,7 @@ Here are some screenshots of the Smart PDF Tool in action:
 
 For a detailed demonstration of the Smart PDF Tool, watch our video:
 
-[Video Demo]([link/to/video.mp4](https://drive.google.com/file/d/1B0SHPLil_hpwv5ia0ZAB5coBxhHLEgOl/view?usp=sharing))
+[Video Demo]([link/to/video.mp4](https://drive.google.com/file/d/1XSn2VNH-Aq3D5KNF42b3QNZA6ONJu1jn/view?usp=sharing))
 
 ## Install the required dependencies:
 1. pip install fastapi uvicorn pydantic nrclex spacy PyPDF2
