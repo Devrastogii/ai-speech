@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Smart PDF Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The **Smart PDF Tool** provides a seamless and intelligent way to interact with PDF documents. This tool allows users to upload PDF files, extract text, and gain insights through advanced features such as emotion detection, entity recognition, and text-to-speech conversion.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **PDF Upload**: Easily upload PDF files through a clean and simple user interface.
+- **Text Extraction**: Extract text from PDF files using PyPDF2.
+- **Emotion Detection**: Analyze and detect emotions within the text using advanced NLP techniques.
+- **Entity Recognition**: Identify and extract person names, place names, and pronouns using spaCy's entity recognition.
+- **Text-to-Speech Conversion**: Convert text to human-like speech for an enhanced reading experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## User Interface
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We have designed a clean and intuitive user interface to ensure a seamless user experience. Below is a screenshot of the interface:
 
-### `npm test`
+![User Interface Screenshot]("C:\Users\hp\Downloads\UI\ai-speech.png")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to Use
 
-### `npm run build`
+1. **Upload a PDF**: Click on the "Upload PDF" button and select the PDF file you wish to upload.
+2. **Extract Text**: The tool automatically extracts text from the uploaded PDF.
+3. **Analyze Text**: View the extracted text along with detected emotions and identified entities.
+4. **Text-to-Speech**: Click on the "Read Aloud" button to hear the text read out loud with human-like speech.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Here are some screenshots of the Smart PDF Tool in action:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot 1]("C:\Users\hp\Downloads\UI\ai-speech.png")
+![Screenshot 2](path/to/screenshot2.png)
 
-### `npm run eject`
+## Video Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+For a detailed demonstration of the Smart PDF Tool, watch our video:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Video Demo]([link/to/video.mp4](https://drive.google.com/file/d/1B0SHPLil_hpwv5ia0ZAB5coBxhHLEgOl/view?usp=sharing))
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To run the Smart PDF Tool locally, follow these steps:
 
-## Learn More
+1. Clone the repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   git clone https://github.com/your-username/smart-pdf-tool.git
